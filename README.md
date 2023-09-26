@@ -18,6 +18,8 @@ The robot can keep itself from falling off the edge by using two ir sensors. The
 # Duster
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/dusting-demo.png)
 
-The duster is a simple microfiber towel that is attached to a sweeper. The fabric is held in with wedges: this follows the idea of a sanding block to keep the sanding paper in place while under load. The broken down 3d model can be seen below:
+The duster is a simple microfiber towel that is attached to a sweeper. The fabric is held in with wedges: this follows the idea of a sanding block to keep the sandpaper in place while under friction. The broken-down 3d model can be seen below:
 
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/duster-3d-model.PNG)
+
+With this design, multiple add-ons could be created to make this modular robot quite robust.

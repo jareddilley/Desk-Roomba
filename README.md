@@ -1,11 +1,7 @@
 # Desk-Roomba
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/portrait-photo.png)
 
-Miniturized Roomba that can dust all your surfaces
-
-Orginal Thingiverse: https://www.thingiverse.com/thing:2662828
-
-Youtube video: https://www.youtube.com/watch?v=fM7q85V_2Z0
+Miniaturized Roomba that can dust all your surfaces. This is a fully 3D-printed robot that can avoid objects, avoid falling off the edge of a table, and dust the surface as it goes. The idea was built off of the SMARs robot that can be found on Thingiverse (https://www.thingiverse.com/thing:2662828). I made some additions of my own to better suit my needs. This creation has a YouTube video as well so those who are visual learners can be entertained: Youtube video: https://www.youtube.com/watch?v=fM7q85V_2Z0
 
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/desk-roomba-main-demo-3.gif)
 

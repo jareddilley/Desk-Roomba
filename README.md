@@ -7,7 +7,7 @@ Orginal Thingiverse: https://www.thingiverse.com/thing:2662828
 
 Youtube video: https://www.youtube.com/watch?v=fM7q85V_2Z0
 
-![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/desk-roomba-main-demo-2.gif)
+![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/desk-roomba-main-demo-3.gif)
 
 # Object Detection
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/ultrasonic-sensor-demo.gif)

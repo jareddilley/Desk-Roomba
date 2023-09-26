@@ -8,12 +8,12 @@ Miniaturized Roomba that can dust all your surfaces. This is a fully 3D-printed 
 # Object Detection
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/ultrasonic-sensor-demo.gif)
 
-The robot is able to avoid opjects by using an ultrasonic sensor. This was the only sensor already built into the original design.
+The robot can avoid objects by using an ultrasonic sensor. This was the only sensor already built into the original design. The sensor bounces ultrasonic sound off the object and listens back for the echo. The time between send and receive determines the distance. In code, we can vary how close the object can get before turning around. 
 
 # Edge Detection
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/ir-sensor-demo.gif)
 
-The robot is able to keep itself from folling off the edge by usining an ir sensor.
+The robot can keep itself from folling off the edge by usining an ir sensor.
 
 # Duster
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/dusting-demo.png)

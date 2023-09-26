@@ -1,5 +1,5 @@
 # Desk-Roomba
-![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/portrait-photo.HEIC)
+![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/portrait-photo.png)
 
 Miniturized Roomba that can dust all your surfaces
 
@@ -20,7 +20,7 @@ The robot is able to avoid opjects by using an ultrasonic sensor. This was the o
 The robot is able to keep itself from folling off the edge by usining an ir sensor.
 
 # Duster
-![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/dusting-demo.heic)
+![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/dusting-demo.png)
 
 The duster is a simple microfiber towel that is attached to a sweeper. The fabric is held in with wedges: this follows the idea of a sanding block to keep the sanding paper in place while under load. The broken down 3d model can be seen below:
 

@@ -13,7 +13,7 @@ The robot can avoid objects by using an ultrasonic sensor. This was the only sen
 # Edge Detection
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/ir-sensor-demo.gif)
 
-The robot can keep itself from folling off the edge by usining an ir sensor.
+The robot can keep itself from falling off the edge by using two ir sensors. The sensors reflect infrared light off of the object and have a receiver to tell if the IR light reflects. Two sensors are used to check both corners of the robot so that no matter the angle the robot comes in at it can sense the edge in time.
 
 # Duster
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/dusting-demo.png)

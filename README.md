@@ -5,7 +5,7 @@ Miniaturized Roomba that can dust all your surfaces. This is a fully 3D-printed 
 
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/roomba-schematic.PNG)
 
-Full Arduino schematic for anyone trying to build the project. If there are any confusions feel free to ask in the comments.
+Full Arduino schematic for anyone trying to build the project. For those who want a closer look, the diagram can be found in the Fritzing Schematic folder. If there are any confusions feel free to ask in the discussion.
 
 # Object Detection
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/ultrasonic-sensor-demo.gif)

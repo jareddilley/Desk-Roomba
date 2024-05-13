@@ -1,5 +1,5 @@
 # Desk-Roomba
-Arduino Blog - https://blog.arduino.cc/2023/10/02/tiny-diy-roomba-cleans-desks-and-countertops/?queryID=undefined
+[Arduino Blog](https://blog.arduino.cc/2023/10/02/tiny-diy-roomba-cleans-desks-and-countertops/?queryID=undefined)
 
 ![image](https://github.com/jareddilley/Desk-Roomba/blob/main/Media/desk-roomba-main-demo-3.gif)
 
